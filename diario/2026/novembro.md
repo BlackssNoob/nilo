@@ -53,7 +53,7 @@ Vou aproveitar este momento para redigir uma entrada para a pasta **`diario/2026
 
 ---
 
-### 12 de novembro 
+## 12 de novembro 
 
 **Local:** Instância Gemini
 
